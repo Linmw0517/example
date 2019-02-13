@@ -1,1 +1,34 @@
-an example file
+What is crucible?
+Crucible is the on-premises code review solution for enterprise teams. It allows your development teams to catch major defects, improve code architecture, and discuss desired improvements, without the need for meetings.
+Crucible and Fisheye
+Use Jira and Crucible for code Review 
+•	Commit code with Jira number
+•	Change issue status to review
+•	Create crucible review from Jira
+•	Create Jira issue from Crucible
+1.	Add comments as defect 
+2.	Create Jira issue from the review (Inline issue)
+Inline issue creation allows:
+•	Tracking of the status of the comment
+•	A faster way to pull out incidental suggestions raised in reviews as Jira Software issues
+•	A quick link back to the comment from the Jira Software issue, using Remote Issue Links.
+You might find this useful when: 
+1.	Tracking the status of a review: 
+a.	The 'Issues Raised from Comments' section in the review shows the open/closed status of related issues.
+b.	Raising related issues enforces dealing with subtasks before the review can be closed.
+2.	Closing off a review: 
+a.	You can create Jira Software issues, unrelated to the current review, to track matters to be dealt with later.
+
+3.	You can also add a general comments and create issue
+•	Change the defect comment to resolve when finish
+•	Close the review and update the Jira issue status
+Code review and trace defect
+•	Create review after code commit
+•	Create new Jira issue as defect when review and find defect
+•	Commit code with Jira number of defeat
+•	Add review content by filter of the Jira number
+•	From Jira issue link to the review 
+Detail demo video link
+http://tseqxpwapp040:8090/display/SSIC#ModelOffice-CodeReview
+
+
